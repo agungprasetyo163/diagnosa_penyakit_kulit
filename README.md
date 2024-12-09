@@ -46,33 +46,80 @@ Laravel SB Admin 2 uses some open-source third-party libraries/packages, many th
 
 ## Preview
 
+`landing page`
+
+![image](https://github.com/user-attachments/assets/b4cc68e8-8004-488b-a797-3f784dc00ca2)
+
+
+***
+
 `login`
 
-<img src="https://imgur.com/YjGp6Sbl.png">
+![image](https://github.com/user-attachments/assets/fec0db04-eeba-4e14-8595-82efc5b5f83d)
+
 
 ***
 
-`register`
+`Register`
 
-<img src="https://imgur.com/Wj09cu4l.png">
+![image](https://github.com/user-attachments/assets/dc64455e-fcfe-446b-a4b3-60330308d94d)
 
-***
-
-`dashboard`
-
-<img src="https://imgur.com/CrmOfT5l.png">
 
 ***
 
-`profile`
+`Dashboard Admin`
 
-<img src="https://imgur.com/5t4eS1rl.png">
+![image](https://github.com/user-attachments/assets/d18811e1-5ef8-4aef-9d10-a7b8c4c476a8)
+
 
 ***
 
-`logout`
+`Prediksi Penyakit`
 
-<img src="https://imgur.com/d9JclOYl.png">
+![image](https://github.com/user-attachments/assets/d00fa755-7456-4f94-90cc-94ae5cf7b5e2)
+
+***
+
+`Data Penyakit`
+
+![image](https://github.com/user-attachments/assets/e3a74a1c-f579-4af5-846e-aa63a266fa8c)
+
+***
+
+`Data Gejala`
+
+![image](https://github.com/user-attachments/assets/12742de1-27df-44d7-8a17-ddf462602544)
+
+***
+
+`Data Keyakinan`
+
+![image](https://github.com/user-attachments/assets/c8543f9d-5cf1-417e-8a6d-9706dee25986)
+
+***
+
+`Basis Pengetahuan`
+
+![image](https://github.com/user-attachments/assets/67b518e8-d30a-4ff1-aa16-b9c4e958ed81)
+
+***
+
+`Dashboard User`
+
+![image](https://github.com/user-attachments/assets/f883decc-afb3-4e88-b8ef-c7461888649f)
+
+
+***
+
+`Diagnosa Gejala Penyakit Kulit`
+
+![image](https://github.com/user-attachments/assets/6d66fae7-96aa-4403-9144-3eec80edcbc6)
+
+***
+
+`Hasil Diagnosa`
+
+![image](https://github.com/user-attachments/assets/7411f251-9bc0-4e4f-b3e3-4141f5145226)
 
 ## License
 
